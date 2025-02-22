@@ -1,1 +1,2 @@
-# fluxonium_qubit_calcultor
+# fluxonium_qubit_calculator
+
